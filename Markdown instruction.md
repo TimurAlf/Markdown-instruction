@@ -32,6 +32,9 @@
 
 ## Ссылки
 
+["Обучающие материалы по Git"](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository)
+
+
 ## Работа с таблицами
 
 ## Цитаты
