@@ -83,3 +83,4 @@ align  | align  | align
 
 
 ## Заключение
+Правка с GitHub2. Для теста
