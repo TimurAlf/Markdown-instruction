@@ -82,3 +82,5 @@ align  | align  | align
 
 
 ## Заключение
+
+Правка с GitHub
