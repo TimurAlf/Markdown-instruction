@@ -51,6 +51,7 @@
 <https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository> 
 
 ## Работа с таблицами
+
 Таблицы Markdown физически представлены с помощью тире (-) для разделения строки заголовка из содержимого и трубы (|) для столбцов.
 
 For example:
@@ -82,5 +83,3 @@ align  | align  | align
 
 
 ## Заключение
-
-Правка с GitHub
